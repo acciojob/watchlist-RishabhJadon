@@ -15,8 +15,7 @@ import org.springframework.http.ResponseEntity;
 
 import com.driver.Application;
 
-@SpringBootTest(classes = Application.class)
-@TestMethodOrder(MethodOrderer.OrderAnnotation.class)
+
 public class TestCases {
 
     
